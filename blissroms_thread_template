@@ -1,52 +1,41 @@
-[CENTER][IMG]https://i.imgur.com/qtDlAth.png[/IMG][/CENTER]
-[SIZE=4][/SIZE]
-[CENTER][SIZE=6][B]BlissRom comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.
-Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/B][/SIZE]
+[CENTER][IMG]https://i.imgur.com/Kdtchy4.jpg[/IMG]
 
-[IMG width="613px"]https://i.imgur.com/M8leihh.png[/IMG]
+[SIZE=5][B]BlissRoms comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.
+Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customization's across all platforms you run Bliss on.[/B][/SIZE]
 
+[IMG width="613px"]https://i.imgur.com/W7qrLy7.png[/IMG]
 
-[SIZE=6][B][URL='']BlissROM <device-codename> Download[/URL][/B][/SIZE]
+[SIZE=5][B][URL='https://downloads.blissroms.org/download/codename/']BlissRoms Download[/URL]
 
+[IMG width="610px"]https://i.imgur.com/t6pnQII.png[/IMG]
+[/CENTER]
+[SIZE=5][B][COLOR=rgb(84, 172, 210)]Clean Flash (If coming from other Rom's/Stock)[/COLOR][/B]
 
-[IMG width="610px"]https://i.imgur.com/Cz6L1rZ.png[/IMG]
+- [SIZE=5]#StayBlissful[/SIZE]
 
-[CODE]
-- Install latest TWRP
-- Flash BlissROM
-- Flash TWRP
-- WIPE DATA
-- Reboot to TWRP
-- Reboot to System and #StayBlissful
-[/CODE]
+[B][COLOR=rgb(61, 142, 185)]Dirty Flash (If you where on BlissRom already!)[/COLOR][/B]
 
-[SIZE=5][IMG width="612px"]https://i.imgur.com/aWICthQ.png[/IMG][/SIZE][/CENTER]
-[CODE]- If you have a major bug to report that has not been reported already, please take the following steps to report it to us.  It will save you and our team quite some time.
-- Download the Matlog app from the Play Store.
-- Clear all previous logs and take the exact steps to produce the error you are receiving.
-- As soon as you receive the error (probably a force close), go straight into Matlog and stop the log recording.
-- Copy and paste the entire log either to Dogbin
-- Save the log, and copy and paste the link into the forum with a brief description of the error.[/CODE]
+- Reboot and #StayBlissful[/SIZE]
+
 [CENTER]
+[IMG width="612px"]https://i.imgur.com/Us6vNXB.png[/IMG]
 
-[IMG width="635px"]https://i.imgur.com/A7JONTD.png[/IMG]
+[SIZE=5][SIZE=5][B][URL='https://github.com/BlissRoms/bug_reports/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+%3C%21--+Add+your+summary+of+bug+faced+here+--%3E']Create Bug Report on our Issues Tracker[/URL][/B][/SIZE]
 
-[SIZE=6][B][URL='https://github.com/BlissRoms/']BlissRoms Github[/URL]
+
+
+[IMG width="635px"]https://i.imgur.com/xyYAe3t.png[/IMG]
+
+[SIZE=5][B][URL='https://github.com/BlissRoms/']BlissRoms Github[/URL]
 [URL='https://review.blissroms.com/q/status:open+-is:wip']BlissRoms Gerrit[/URL]
-[URL='https://github.com/BlissRoms-Devices/']BlissRoms Device Sources[/URL]
-[URL='https://github.com/BlissRoms-Devices/']BlissRoms Kernel Source[/URL][/B][/SIZE]
+[URL='']Kernel Source[/URL][/B][/SIZE]
 
-[IMG width="636px"]https://i.imgur.com/wwdX3pH.png[/IMG]
 
-[SIZE=6][B][URL='https://blissroms.org']BlissRom Website[/URL]
-[URL='https://blog.blissroms.org']BlissRom Blog[/URL]
-[URL='https://www.facebook.com/BlissFamilyOfROMs']BlissRom Facebook[/URL]
-[URL='https://twitter.com/stayblissful']BlissRom Twitter[/URL]
-[URL='https://www.instagram.com/blissroms']BlissRom Instagram[/URL]
-[URL='https://t.me/Team_Bliss_Community']BlissRom Telegram Group[/URL]
-[URL='https://t.me/BlissROM_Updates']BlissRom Announcements Telegram Channel[/URL][/B][/SIZE]
+[IMG width="636px"]https://i.imgur.com/4EQy8kq.png[/IMG]
 
-[B][SIZE=5]If someone wants to donate, please do so via this PayPal link[/SIZE]
-[SIZE=3][URL='https://www.paypal.com/donate/?hosted_button_id=J5SLZ7MQNCT24'][IMG]https://imgur.com/2rw5ves.png[/IMG][/URL][/SIZE][/B]
+[SIZE=5][B]| [URL='https://blissroms.org']Website[/URL] | [URL='https://blog.blissroms.org']Blog[/URL] | [URL='https://www.facebook.com/BlissFamilyOfROMs']Facebook[/URL] | [URL='https://twitter.com/stayblissful']Twitter[/URL] | [URL='https://www.instagram.com/blissroms']Instagram[/URL] | [URL='https://t.me/Team_Bliss_Community']Telegram Group[/URL] | [URL='https://t.me/BlissROM_Updates']Telegram Channel[/URL] | [/B][/SIZE][/SIZE][URL='https://docs.blissroms.org/'][SIZE=5][SIZE=5][B]Docs[/B][/SIZE][/SIZE][/URL]
 
-[SIZE=5][B][COLOR=deepskyblue]Thank you for using BlissRom!  And as always: #StayBlissful[/COLOR][/B][/SIZE][/CENTER]
+[SIZE=5][B][SIZE=5]If someone wants to donate, please do so via this PayPal link[/SIZE]
+[SIZE=3][URL='https://www.paypal.com/donate/?hosted_button_id=J5SLZ7MQNCT24'][IMG]https://imgur.com/2rw5ves.png[/IMG][/URL][/SIZE][/B][/SIZE]
+
+[SIZE=5][SIZE=5][B][COLOR=deepskyblue]Thank you for using BlissRoms!  And as always: #StayBlissful[/COLOR][/B][/SIZE][/SIZE][/CENTER]
